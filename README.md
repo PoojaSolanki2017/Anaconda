@@ -8,6 +8,6 @@ Whether you are working on a small project or deploying large-scale machine lear
 ### For the Anaconda installation, please check [Anaconda Installation](AnacondaInstallation.md)
 
 
-Reference : [Anaconda](https://docs.anaconda.com/anaconda)
+Reference : [Anaconda](https://docs.anaconda.com/)
 
 
