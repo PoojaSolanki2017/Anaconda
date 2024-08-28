@@ -11,7 +11,7 @@
     
     curl -O https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Linux-x86_64.sh
 
--> Verify the installation 
+-> Review the license agreement
 
     bash <PATH_to_Anaconda_Installer>/Anaconda3-2024.06-1-Linux-x86_64.sh
 
