@@ -1,9 +1,9 @@
 # Anaconda Installation
-How to install Anaconda in the Linux environment.
+How to install Anaconda in a Linux environment.
 
 ## Download Anaconda for Linux
 
--> Find an appropriate Anaconda installation version from https://repo.anaconda.com/archive/ . Foe example 
+-> Find an appropriate Anaconda installation version from https://repo.anaconda.com/archive/ . For example, 
 
     Anaconda3-2024.06-1-Linux-x86_64.sh
 
