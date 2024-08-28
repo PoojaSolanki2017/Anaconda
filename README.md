@@ -5,7 +5,7 @@ Its ability to create customized environments, manage packages, and integrate es
 
 Whether you are working on a small project or deploying large-scale machine learning models, Anaconda provides the flexibility and reliability needed to get the job done efficiently.
 
-## For the Anaconda installation, please check this (AnacondaInstallation.md)
+## For the Anaconda installation, please check [Anaconda Installation](AnacondaInstallation.md)
 
 
 Reference : [Anaconda Installation](https://docs.anaconda.com/anaconda)
