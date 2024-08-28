@@ -5,19 +5,7 @@ Its ability to create customized environments, manage packages, and integrate es
 
 Whether you are working on a small project or deploying large-scale machine learning models, Anaconda provides the flexibility and reliability needed to get the job done efficiently.
 
-# Anaconda Installation
-How to install Anaconda in the Linux environment.
+## For the Anaconda installation steps, please check this page [Anaconda_Installation](https://github.com/PoojaSolanki2017/Anaconda/blob/main/Anaconda_Installation)
 
-## Download Anaconda for Linux
 
--> Find an appropriate Anaconda installation version from https://repo.anaconda.com/archive/ . Foe example 
 
-    Anaconda3-2024.06-1-Linux-x86_64.sh
-
--> Install with 
-    
-    curl -O https://repo.anaconda.com/archive/Anaconda3-2024.06-1-Linux-x86_64.sh
-
--> Verify the installation 
-
-    bash ~/Downloads/Anaconda3
